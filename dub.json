@@ -1,0 +1,13 @@
+{
+    "name":          "dui",
+    "description":   "Dlang UI library",
+    "authors":      ["Dmitry Ponyatov <dponyatov@gmail.com>"],
+    "copyright":     "Copyright © 2023, Dmitry Ponyatov <dponyatov@gmail.com>",
+    "license":       "MIT",
+    "homepage":      "https://github.com/ponyatov/dui",
+    "targetType":    "library",
+    "targetPath":    "../bin",
+    "dependencies": {
+        "ncurses": "~>1.0.0"
+    }
+}
